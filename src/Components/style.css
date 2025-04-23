@@ -1,0 +1,38 @@
+.sub{
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orangered;
+    font-size: 4rem;
+  
+}
+button{
+    width: 160px;
+    height: 50px;
+    background-color: #4CAF50; /* green */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+.name{
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orangered;
+    font-size: 4rem;
+}
+img{
+    width: 500px;
+    height: 500px;
+  position: fixed;
+  top: 150px;
+  right: 200px;
+}
