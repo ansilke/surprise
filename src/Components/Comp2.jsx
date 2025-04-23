@@ -20,3 +20,4 @@ function Comp2() {
 }
 
 export default Comp2
+
